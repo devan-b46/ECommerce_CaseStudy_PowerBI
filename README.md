@@ -1,7 +1,7 @@
 # Power BI
 This repository has a Power BI Desktop Case Study on E-Commerce Sales and Promotion Data.
 The dashboard is developed by Devanshu Bharti.
-![Power BI Desktop](https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png)
+![Power BI Desktop](https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png)
 
 ---
 
